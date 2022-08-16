@@ -1,0 +1,167 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Remember Me",
+      "description": "lorem ipusm lorem ipusm lorem ipusm lorem ipusmlorem ipusm lorem ipusm lorem ipusm v v lorem ipusm lorem ipusm lorem ipusm lorem ipusm"
+    },
+    {
+      "id": 2,
+      "title": "Bel Ami",
+      "description": "lorem ipusm lorem ipusm lorem ipusm lorem ipusmlorem ipusm lorem ipusm lorem ipusm v v lorem ipusm lorem ipusm lorem ipusm lorem ipusm"
+    },
+    {
+      "id": 3,
+      "title": "The God Father",
+      "description": "lorem ipusm lorem ipusm lorem ipusm lorem ipusmlorem ipusm lorem ipusm lorem ipusm v v lorem ipusm lorem ipusm lorem ipusm lorem ipusm"
+    },
+    {
+      "id": 4,
+      "title": "Superman 2",
+      "description": "lorem ipusm lorem ipusm lorem ipusm lorem ipusmlorem ipusm lorem ipusm lorem ipusm v v lorem ipusm lorem ipusm lorem ipusm lorem ipusm"
+    },
+    {
+      "id": 5,
+      "title": "The First Time",
+      "description": "lorem ipusm lorem ipusm lorem ipusm lorem ipusmlorem ipusm lorem ipusm lorem ipusm v v lorem ipusm lorem ipusm lorem ipusm lorem ipusm"
+    },
+    {
+      "id": 6,
+      "title": "The Only Living Boy In New York 4",
+      "description": "lorem ipusm lorem ipusm lorem ipusm lorem ipusmlorem ipusm lorem ipusm lorem ipusm v v lorem ipusm lorem ipusm lorem ipusm lorem ipusm"
+    },
+    {
+      "title": "test",
+      "description": "test",
+      "id": 7
+    },
+    {
+      "title": "test 2",
+      "description": "test 2 description",
+      "id": 8
+    },
+    {
+      "title": "test 3",
+      "description": "test 3 description",
+      "id": 9
+    },
+    {
+      "title": "test 4",
+      "description": "test 4 descr",
+      "id": 10
+    },
+    {
+      "title": "new movie",
+      "description": "re",
+      "id": 11
+    },
+    {
+      "title": "new movie",
+      "description": "re",
+      "id": 12
+    },
+    {
+      "title": "new movie",
+      "description": "re",
+      "id": 13
+    },
+    {
+      "title": "new moviess",
+      "description": "re",
+      "id": 14
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Joe",
+      "description": "lorem ipusm lorem ipusm lorem ipusm lorem ipusmlorem ipusm lorem ipusm lorem ipusm v v lorem ipusm lorem ipusm lorem ipusm lorem ipusm"
+    },
+    {
+      "id": 2,
+      "name": "Chandler",
+      "description": "lorem ipusm lorem ipusm lorem ipusm lorem ipusmlorem ipusm lorem ipusm lorem ipusm v v lorem ipusm lorem ipusm lorem ipusm lorem ipusm"
+    },
+    {
+      "id": 3,
+      "name": "Rachel",
+      "description": "lorem ipusm lorem ipusm lorem ipusm lorem ipusmlorem ipusm lorem ipusm lorem ipusm v v lorem ipusm lorem ipusm lorem ipusm lorem ipusm"
+    },
+    {
+      "id": 4,
+      "name": "Ross",
+      "description": "lorem ipusm lorem ipusm lorem ipusm lorem ipusmlorem ipusm lorem ipusm lorem ipusm v v lorem ipusm lorem ipusm lorem ipusm lorem ipusm"
+    },
+    {
+      "id": 5,
+      "name": "Gunther",
+      "description": "lorem ipusm lorem ipusm lorem ipusm lorem ipusmlorem ipusm lorem ipusm lorem ipusm v v lorem ipusm lorem ipusm lorem ipusm lorem ipusm"
+    },
+    {
+      "id": 6,
+      "name": "phoebe",
+      "description": "lorem ipusm lorem ipusm lorem ipusm lorem ipusmlorem ipusm lorem ipusm lorem ipusm v v lorem ipusm lorem ipusm lorem ipusm lorem ipusm"
+    }
+  ],
+  "users": [
+    {
+      "id": "test@test.com",
+      "channelId": "test1",
+      "courses": ["react", "angular", "vue"]
+    },
+    {
+      "id": "test2@test.com",
+      "channelId": "test2",
+      "courses": ["react", "angular", "vue"]
+    },
+    {
+      "id": "test3@test.com",
+      "channelId": "test3",
+      "courses": ["react", "angular", "vue"]
+    }
+  ],
+  "channels": [
+    {
+      "channel": "test1",
+      "courses": ["react1", "angular", "vue"]
+    },
+    {
+      "channel": "test2",
+      "courses": ["react3", "angular", "vue"]
+    },
+    {
+      "channel": "test3",
+      "courses": ["react4", "angular", "vue"]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "red"
+    },
+    {
+      "id": 2,
+      "label": "green"
+    },
+    {
+      "id": 3,
+      "label": "blue"
+    },
+    {
+      "id": 4,
+      "label": "yellow"
+    },
+    {
+      "id": 5,
+      "label": "black"
+    },
+    {
+      "id": 6,
+      "label": "purple"
+    },
+    {
+      "id": 7,
+      "label": "grey"
+    }
+  ]
+}
